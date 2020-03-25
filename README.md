@@ -1,6 +1,8 @@
-# Hang In There
+# Hang In There, Baby!
 
 A boilerplate repo. 
+
+![hang in there cat poster](https://s3.amazonaws.com/image-products/79331/79331-1024.jpg)
 
 ## Set Up
 
