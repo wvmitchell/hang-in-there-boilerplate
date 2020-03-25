@@ -83,3 +83,4 @@ Project spec & rubric can be found [here](https://frontend.turing.io/projects/mo
 ## Collaborators
 
 - wvmitchell@gmail.com
+- letakeane@gmail.com
