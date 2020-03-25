@@ -4,7 +4,7 @@ A boilerplate repo.
 
 ![hang in there cat poster](https://s3.amazonaws.com/image-products/79331/79331-1024.jpg)
 
-## Set Up
+## Set Up ✨
 
 1. One teammate: fork this repository
 2. Go to settings and turn on GitHub Pages for this repository
@@ -12,9 +12,9 @@ A boilerplate repo.
 4. `cd` into the repository
 5. Run `open index.html` to view it in the browser
 
-## Progression
+## Progression 📈
 
-### Iteration 0 - Main Page
+### Iteration 0 - Main Page 💚
 
 ![screenshot of main page showing poster](/readme-imgs/homepage.png)
 
