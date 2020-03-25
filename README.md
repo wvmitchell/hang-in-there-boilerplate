@@ -79,3 +79,8 @@ You are welcome to add your own extensions. Be sure they are thoughtful in terms
 
 
 Project spec & rubric can be found [here](https://frontend.turing.io/projects/module-1/hang-in-there.html)
+
+## Collaborators
+
+- wvmitchell@gmail.com
+- letakeane@gmail.com
